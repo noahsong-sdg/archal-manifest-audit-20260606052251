@@ -1,5 +1,6 @@
 {
-  "schema": 1,
+  "schema": 2,
   "purpose": "repository manifest inventory",
-  "run": "20260606052251"
+  "run": "20260606052251",
+  "status": "verified"
 }
